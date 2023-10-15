@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-protfolioo/static/css/main.029dc41e.css",
+    "main.js": "/react-protfolioo/static/js/main.a747f9f0.js",
+    "static/media/ismaan-removebg-preview.png": "/react-protfolioo/static/media/ismaan-removebg-preview.b1741cd750bcd3d9025d.png",
+    "static/media/juuj-removebg-preview.png": "/react-protfolioo/static/media/juuj-removebg-preview.d0218c3e27f2be732bad.png",
+    "static/media/react.png": "/react-protfolioo/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/react-protfolioo/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/react-protfolioo/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/javascript.png": "/react-protfolioo/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-protfolioo/index.html",
+    "main.029dc41e.css.map": "/react-protfolioo/static/css/main.029dc41e.css.map",
+    "main.a747f9f0.js.map": "/react-protfolioo/static/js/main.a747f9f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.029dc41e.css",
+    "static/js/main.a747f9f0.js"
+  ]
+}
