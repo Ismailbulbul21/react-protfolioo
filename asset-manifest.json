@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-protfolioo/static/css/main.8cb99024.css",
-    "main.js": "/react-protfolioo/static/js/main.75f6487c.js",
+    "main.js": "/react-protfolioo/static/js/main.b282cb90.js",
     "static/media/ismaan-removebg-preview.png": "/react-protfolioo/static/media/ismaan-removebg-preview.b1741cd750bcd3d9025d.png",
     "static/media/juuj-removebg-preview.png": "/react-protfolioo/static/media/juuj-removebg-preview.d0218c3e27f2be732bad.png",
     "static/media/react.png": "/react-protfolioo/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -10,10 +10,10 @@
     "static/media/javascript.png": "/react-protfolioo/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-protfolioo/index.html",
     "main.8cb99024.css.map": "/react-protfolioo/static/css/main.8cb99024.css.map",
-    "main.75f6487c.js.map": "/react-protfolioo/static/js/main.75f6487c.js.map"
+    "main.b282cb90.js.map": "/react-protfolioo/static/js/main.b282cb90.js.map"
   },
   "entrypoints": [
     "static/css/main.8cb99024.css",
-    "static/js/main.75f6487c.js"
+    "static/js/main.b282cb90.js"
   ]
 }
